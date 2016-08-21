@@ -1,0 +1,35 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "keywords": [],
+    "name": "compress-data-v0.3",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Compress Data v0.3",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "JIGSAW_INIT",
+            "JIGSAW_PIECE",
+            "JIGSAW_PIECE_INDEX",
+            "MESSAGE",
+            "COMMAND"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "b61e7133-35ff-4ad1-9d06-67431064aaf0",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.3.0"
+}
